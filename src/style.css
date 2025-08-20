@@ -7,12 +7,6 @@ body {
   box-sizing: border-box;
 }
 
-.ul {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 :root {
   --blue-color: #00acdc;
 }
